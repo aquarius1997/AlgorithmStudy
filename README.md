@@ -2,7 +2,7 @@
 백준 알고리즘 문제 풀이
 
 
-*AlgorithmGit.xcodeproj : Xcode로 프로젝트를 만들어 생성된 폴더이므로 무시 가능*
+*AlgorithmGit.xcodeproj : Xcode로 프로젝트를 만들어 생성된 폴더이므로 무시*
 
 ## C, C++ 언어로 작성했습니다 ##
 ------------------------------------
