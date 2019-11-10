@@ -17,6 +17,7 @@
 | Num. | Title | 정답률 | 체감난이도 | 컴파일러(언어) |
 |---|---|---|---|---|
 |1152|단어의개수|25%|:star::star:|C|
+|PGS|추석트래픽|Lv.3|:star::star::star::star::star:|C++|
 
 
 ### Math ###
@@ -24,6 +25,7 @@
 | Num. | Title | 정답률 | 체감난이도 | 컴파일러(언어) |
 |---|---|---|---|---|
 |2581|소수|38%|:star:|C|
+|PGS|124나라의 숫자|Lv.2|:star::star::star::star::star:|C++|
 
 
 ### Sort ###
@@ -47,6 +49,8 @@
 |---|---|---|---|---|
 |2798|블랙잭|42%|:star::star:|C|
 |2231|분해합|53%|:star:|C|
+|PGS|124나라의 숫자|Lv.2|:star::star::star::star::star: (더 쉬운방법있는데 DFS로 잘못 접근함 : Math 폴더에 있음)|C++|
+
 
 
 ### DynamicProgramming ###
@@ -56,18 +60,24 @@
 |2748|피보나치수2|41%|:star:|C|
 |1003|피보나치함수|29%|:star:|C|
 |10844|쉬운계단수|28%|:star::star::star::star:|C|
-
+|PGS|2N 타일링|Lv.3|:star::star:|C++|
+|PGS|N으로표현|Lv.3|:star::star::star::star::star:|C++|
 
 ### Stack ###
 | Num. | Title | 정답률 | 체감난이도 | 컴파일러(언어) |
 |---|---|---|---|---|
 |17298|오큰수|38%|:star::star:|C|
+|PGS|쇠막대기|Lv.2|:star::star:|C++|
+|PGS|주식가격|Lv.2|:star:|C++|
+|PGS|탑|Lv.2|:star:|C++|
 
 ### Queue and Deque ###
 
 | Num. | Title | 정답률 | 체감난이도 | 컴파일러(언어) |
 |---|---|---|---|---|
 |10845|큐|50%|:star:|C++|
+|PGS|기능개발|Lv.2|:star:|C++|
+|PGS|다리를 지나는 트럭|Lv.2|:star::star:|C++|
 
 
 ### DFS and BFS ###
@@ -82,6 +92,22 @@
 | Num. | Title | 정답률 | 체감난이도 | 컴파일러(언어) |
 |---|---|---|---|---|
 |17144|미세먼지안녕|57%|:star::star:|C|
+|17779|게리맨더링2|58%|:star::star::star:|C++|
 
 
+### 카카오겨울인턴시험 ###
 
+| Num. | Title | 정답률 | 체감난이도 | 컴파일러(언어) |
+|---|---|---|---|---|
+|1|.|.|:star:|C++|
+|2|.|.|:star::star:|C++|
+|3|.|.|:star::star::star:|C++|
+|4|.|효율성점수를 어떻게 따야하는지 모르겠음. 다시풀어야함|:star::star::star::star::star:|C++|
+|5|.|정확성만따지면 쉬움 / 효율성점수를 어떻게 따야하는지 모르겠음. 다시풀어야함|:star::star::star::star:|C++|
+
+### SW Expert Academy ###
+
+| Title | 정답률 | 체감난이도 | 컴파일러(언어) |
+|---|---|---|---|
+|벽돌깨기|59%|:star::star::star:|C++|
+|보호필름|29%|:star::star::star::star:|C++|
