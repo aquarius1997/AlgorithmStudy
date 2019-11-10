@@ -3,7 +3,7 @@
 ## 백준, 프로그래머스, SW Expert Academy 알고리즘 문제 풀이
 
 * SW Expert Academy 문제는 별도의 폴더 ("SWExpertAcademy"에 저장)
-* Programmers 문제는 파일명이 P로 시작 (ex. P_추석트래픽.cpp)
+* Programmers 문제는 파일명이 PGS로 시작 (ex. PGS_추석트래픽.cpp)
 * 백준 문제는 파일명이 문제번호로 시작 (ex. 17144미세먼지안녕.cpp)
 
 
