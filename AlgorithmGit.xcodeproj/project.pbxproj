@@ -53,6 +53,9 @@
 		D37F7F3A23767EF800A383B6 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
 		D37F7F3C23767F0800A383B6 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		D37F7F3E23767F1A00A383B6 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
+		D37F7F46237A946100A383B6 /* PGS_멀쩡한사각형.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "PGS_멀쩡한사각형.c"; sourceTree = "<group>"; };
+		D37F7F48237D224E00A383B6 /* PGS_카카오프렌즈컬러링북.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PGS_카카오프렌즈컬러링북.cpp"; sourceTree = "<group>"; };
+		D37F7F4B237D2B8100A383B6 /* PGS_큰수만들기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PGS_큰수만들기.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +81,8 @@
 		D32D7E0D230D6D3B00787AA8 = {
 			isa = PBXGroup;
 			children = (
-				D37F7F35237677D900A383B6 /* 2019카카오겨울인턴 */,
+				D37F7F4A237D2B6D00A383B6 /* Greedy */,
+				D37F7F35237677D900A383B6 /* kk */,
 				D325229B235AED1800DDF0DC /* SWExpertAcademy */,
 				D32D7E4A231A855D00787AA8 /* Stack */,
 				D32D7E3E231A5D0400787AA8 /* BinarySearch */,
@@ -116,6 +120,7 @@
 			children = (
 				D32D7E24230D71B200787AA8 /* 2581소수.c */,
 				D37F7F2B2374389600A383B6 /* PGS_124나라의숫자.cpp */,
+				D37F7F46237A946100A383B6 /* PGS_멀쩡한사각형.c */,
 			);
 			path = Math;
 			sourceTree = "<group>";
@@ -175,6 +180,7 @@
 			isa = PBXGroup;
 			children = (
 				D32D7E3C2312769100787AA8 /* 1260DFS와BFS.cpp */,
+				D37F7F48237D224E00A383B6 /* PGS_카카오프렌즈컬러링북.cpp */,
 			);
 			path = DFSandBFS;
 			sourceTree = "<group>";
@@ -198,7 +204,7 @@
 			path = Stack;
 			sourceTree = "<group>";
 		};
-		D37F7F35237677D900A383B6 /* 2019카카오겨울인턴 */ = {
+		D37F7F35237677D900A383B6 /* kk */ = {
 			isa = PBXGroup;
 			children = (
 				D37F7F36237677F100A383B6 /* 1.cpp */,
@@ -207,8 +213,16 @@
 				D37F7F3C23767F0800A383B6 /* 4.cpp */,
 				D37F7F3E23767F1A00A383B6 /* 5.cpp */,
 			);
-			name = "2019카카오겨울인턴";
+			name = kk;
 			path = "2019카카오겨울인턴";
+			sourceTree = "<group>";
+		};
+		D37F7F4A237D2B6D00A383B6 /* Greedy */ = {
+			isa = PBXGroup;
+			children = (
+				D37F7F4B237D2B8100A383B6 /* PGS_큰수만들기.cpp */,
+			);
+			path = Greedy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
