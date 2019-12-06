@@ -27,6 +27,7 @@ vector<int> solution(string s) {
             
             int num = s[i] - '0';
             
+            //{213, 1} 같은 경우 213의 숫자를 만듦
             while(s[i+k] != '{' && s[i+k] != '}' && s[i+k] != ',') {
                 num *= 10;
                 num += (s[i+k] - '0');
