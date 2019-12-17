@@ -65,6 +65,9 @@
 		D37F7F562381876500A383B6 /* kakao_5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = kakao_5.cpp; sourceTree = "<group>"; };
 		D387D4972383BBC900B4EF47 /* PGS_괄호변환.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PGS_괄호변환.cpp"; sourceTree = "<group>"; };
 		D387D4992383C9FF00B4EF47 /* PGS_소수찾기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PGS_소수찾기.cpp"; sourceTree = "<group>"; };
+		D3F62D07239CCDA0003E843C /* PGS_구명보트.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PGS_구명보트.cpp"; sourceTree = "<group>"; };
+		D3F62D09239CD921003E843C /* PGS_위장.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PGS_위장.cpp"; sourceTree = "<group>"; };
+		D3F62D0B23A22802003E843C /* PGS_타겟넘버.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PGS_타겟넘버.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +96,7 @@
 			children = (
 				D31199C0239A196C009DE067 /* PGS_전화번호목록.cpp */,
 				D31199C5239A44DB009DE067 /* PGS_hIndex.cpp */,
+				D3F62D09239CD921003E843C /* PGS_위장.cpp */,
 			);
 			path = Hash;
 			sourceTree = "<group>";
@@ -213,6 +217,7 @@
 			children = (
 				D32D7E3C2312769100787AA8 /* 1260DFS와BFS.cpp */,
 				D37F7F48237D224E00A383B6 /* PGS_카카오프렌즈컬러링북.cpp */,
+				D3F62D0B23A22802003E843C /* PGS_타겟넘버.cpp */,
 			);
 			path = DFSandBFS;
 			sourceTree = "<group>";
@@ -242,6 +247,7 @@
 			children = (
 				D37F7F4B237D2B8100A383B6 /* PGS_큰수만들기.cpp */,
 				D32B609E238517FB0011820B /* PGS_조이스틱.cpp */,
+				D3F62D07239CCDA0003E843C /* PGS_구명보트.cpp */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
