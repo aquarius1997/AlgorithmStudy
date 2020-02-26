@@ -6,8 +6,5 @@
 * Programmers 문제는 파일명이 PGS로 시작 (ex. PGS_추석트래픽.cpp)
 * 백준 문제는 파일명이 문제번호로 시작 (ex. 17144미세먼지안녕.cpp)
 
-
-*AlgorithmGit.xcodeproj : Xcode로 프로젝트를 만들어 생성된 실행폴더이므로 무시*
-
 ## C, C++언어로 풀었으며 문제번호, 체감난이도 등에 대한 정보는 Wiki를 참고해 주세요 ##
 
