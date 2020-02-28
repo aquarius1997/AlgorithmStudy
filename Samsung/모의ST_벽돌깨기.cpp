@@ -1,5 +1,5 @@
 //
-//  모의ST_보호필름.cpp
+//  벽돌깨기.cpp
 //  AlgorithmGit
 //
 //  Created by 송혜경 on 2020/02/11.
@@ -166,3 +166,4 @@ int main(void) {
     
     return 0;
 }
+
