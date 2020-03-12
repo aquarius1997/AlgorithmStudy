@@ -5,7 +5,7 @@
 //
 //  Created by 송혜경 on 2020/02/11.
 //  Copyright © 2020 송혜경. All rights reserved.
-//  ****(실패)
+//  ****
 
 #include <stdio.h>
 #define MAXN(a, b)   (((a) > (b)) ? (a) : (b))
