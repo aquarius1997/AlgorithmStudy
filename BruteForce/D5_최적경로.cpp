@@ -28,7 +28,7 @@ void visiting(int preHouse, int idx, int cnt, int dist) {
     } else {
         rowDist = houses[preHouse][0] - houses[idx][0];
         colDist = houses[preHouse][1] - houses[idx][1];
-    }   //첫번째 집이 아니면
+    } 
     if(rowDist < 0) {
         distance = (rowDist * (-1));
     } else {

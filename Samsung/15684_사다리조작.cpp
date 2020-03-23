@@ -92,7 +92,6 @@ void simul(int num) {
                         if(flag == 1) { //조건 만족
                             answer = num;   break;
                         }
-                        if(flag == -1) { return;}   //불가능한 경우
                     }
                 }
             }
