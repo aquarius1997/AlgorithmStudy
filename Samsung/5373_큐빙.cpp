@@ -4,7 +4,7 @@
 //
 //  Created by 송혜경 on 2020/03/23.
 //  Copyright © 2020 송혜경. All rights reserved.
-//
+// 이거 뭔가 넘 코드가 긺... 영 찝찝함.,. 더 간단하게 풀 방법이 있을텐데 우선 나중에 수정하는걸로 패스
 
 #include <cstdio>
 using namespace std;

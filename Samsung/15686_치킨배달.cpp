@@ -16,6 +16,7 @@ int house[102][2] = {0, };  //집들의 위치 정보를 저장
 int houseCnt, chickenCnt;   //집과 치킨집의 총 개수
 int minDist = 987987987;
 
+/// 도시의 치킨거리를 구해서 최소 도시 치킨거리를 업데이트할 수 있는지 확인한다
 void city_dist(void) {
     int houseR, houseC, chickenR, chickenC;
     int distance = 0;   //도시 치킨 거리
