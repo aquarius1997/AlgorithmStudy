@@ -4,7 +4,7 @@
 //
 //  Created by 송혜경 on 2020/04/28.
 //  Copyright © 2020 송혜경. All rights reserved.
-//
+//  28min. Fail : 0 **
 
 #include <cstdio>
 using namespace std;
